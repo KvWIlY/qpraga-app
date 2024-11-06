@@ -1,1 +1,1 @@
-# QPraga-app
+# qpraga-app
