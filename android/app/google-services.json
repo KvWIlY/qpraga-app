@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "786867087200",
+    "project_id": "qpraga-46c43",
+    "storage_bucket": "qpraga-46c43.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786867087200:android:5cda40e9c590c3ebc56005",
+        "android_client_info": {
+          "package_name": "com.hackroca.qpraga"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_bVbtEkDR2hEza9bhWcBVtv1L7QQ6O2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
